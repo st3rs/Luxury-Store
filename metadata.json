@@ -1,0 +1,9 @@
+{
+  "name": "Basket Brand Name",
+  "description": "Authentic Luxury, Carefully Curated. Boutique online store for brand-new and pre-owned luxury products.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
